@@ -1,129 +1,191 @@
 {
   "site": {
-    "name": "Ad Soyad",
-    "title": "Klinik Psikolog",
-    "email": "bilgi@klinik.com",
-    "address": "Nişantaşı, İstanbul",
-    "copyright": "Tüm hakları saklıdır."
+    "name": "test",
+    "title": "sgmsgds",
+    "email": "futurescientistai@gmail.com",
+    "address": "kadıköy, istanbul",
+    "copyright": "Tüm hakları saklıdır.",
+    "hours": "pazartesi-sali 18:00-19:00",
+    "phone": "+905312775292"
   },
   "home": {
-    "badge": "SERENE",
-    "headline": "Zihnin sessizliğinde,",
-    "headlineAccent": "kendi yolunuzu",
-    "headlineSuffix": "bulun.",
-    "description": "Güvene dayalı, yavaş ve derinlemesine çalışan bir terapi yaklaşımı ile içsel dengenizi yeniden inşa edin.",
-    "cta": "Randevu Talep Et",
-    "cardTitle": "Sakinlik & Denge",
-    "cardSubtitle": "Bütünsel Terapi Yaklaşımı",
-    "quote": "Dışarı bakan rüya görür, içeri bakan uyanır.",
-    "quoteAuthor": "Carl Gustav Jung"
+    "headline": "Zihnin sessizliğinde, aknfs",
+    "headlineAccent": "sfsfskendi yolunuzu",
+    "headlineSuffix": "sgbulun.",
+    "description": "sgsgs slmlsmgsl",
+    "cta": "Randevu sokfs",
+    "cardTitle": "slfmslmgs",
+    "cardSubtitle": "sggds",
+    "quote": "sgs",
+    "quoteAuthor": "kdmflmld",
+    "badge": "sgsgdfv",
+    "ctaSecondary": "sggs"
   },
   "metrics": [
-    { "val": "12+", "unit": "Yıl", "label": "Klinik Deneyim" },
-    { "val": "4500+", "unit": "", "label": "Tamamlanmış Seans" },
-    { "val": "8", "unit": "+", "label": "Akademik Yayın" },
-    { "val": "%100", "unit": "", "label": "Etik Taahhüt" }
+    {
+      "val": "1+",
+      "unit": "Yıl",
+      "label": "slfmse"
+    },
+    {
+      "val": "80",
+      "unit": "+",
+      "label": "sfnlsdg"
+    },
+    {
+      "val": "100",
+      "unit": "",
+      "label": "aknfse"
+    }
   ],
   "services": [
     {
-      "title": "Bireysel Psikoterapi",
-      "desc": "Stres, kaygı, depresyon, yaşam değişimleri ve anlam arayışında bireysel farkındalık yolculuğu.",
-      "duration": "50 dk",
-      "method": "CBT / Şema Terapi"
+      "desc": "akfnan",
+      "title": "lamflamf",
+      "method": "lsnlds",
+      "duration": "0 dk"
     },
     {
-      "title": "Çift & İlişki Terapisi",
-      "desc": "İlişki içi çatışmalar, iletişim problemleri ve bağlılık krizleri üzerine çiftler arası iyileşme.",
-      "duration": "75 dk",
-      "method": "Gottman / Sistemik"
+      "desc": "lanflan ",
+      "title": "alnfmlaf",
+      "method": "test",
+      "duration": "7 dk"
     },
     {
-      "title": "EMDR Travma Terapisi",
-      "desc": "Zorlayıcı geçmiş deneyimlerin nörolojik düzeyde duyarsızlaştırılıp yeniden işlenmesi.",
-      "duration": "60 dk",
-      "method": "EMDR Protokolü"
+      "desc": "Zorlayıcı geçmiş deneyimlerin nörolojik düzeyde duyarsızlaştırılıp yeniden işlenmesi.test",
+      "title": "test",
+      "method": "EMDR Protokolü",
+      "duration": "60 dk"
+    },
+    {
+      "desc": "test",
+      "title": "test",
+      "method": "test",
+      "duration": "50 Dk"
+    },
+    {
+      "desc": "test",
+      "title": "test",
+      "method": "test",
+      "duration": "50 Dk"
+    },
+    {
+      "desc": "test",
+      "title": "test",
+      "method": "test",
+      "duration": "5Dk"
     }
   ],
   "about": {
     "title": "Hakkımda",
-    "intro": "Klinik psikoloji yolculuğum, insanın kendisiyle barışma arayışını anlama arzusuyla başladı. 10 yılı aşkın süredir danışanlarımla güvenli bir farkındalık alanında buluşuyorum.",
-    "introSecond": "Zihinsel düğümlerin şefkatli bir eşlik etme süreciyle çözülebileceğine inanıyorum.",
+    "intro": "12 yılı aşkın klinik deneyimimle, bilimsel temelli ve bütünleşik bir terapi yaklaşımı sunuyorum.",
+    "introSecond": "Her danışanımın benzersiz hikayesine saygı duyarak, birlikte iyileşme yolculuğuna çıkıyoruz.",
+    "calloutTitle": "Terapi Felsefemtest",
+    "calloutText": "Her insan, kendi hikayesinin yazarı olmaya layıktır.test",
+    "organizations": [
+      "Bilişsel Davranışçı Terapitest",
+      "EMDR Terapisitest",
+      "Şema Terapitest",
+      "Çift ve Aile Terapisitest",
+      "test",
+      "test",
+      "test"
+    ],
     "credentials": [
       {
-        "year": "2014",
-        "title": "İstanbul Üniversitesi - Psikoloji Lisans",
-        "detail": "Birincilik derecesiyle mezuniyet"
+        "year": "2010",
+        "title": "test",
+        "detail": "test"
       },
       {
-        "year": "2016",
-        "title": "Klinik Psikoloji Yüksek Lisansı",
-        "detail": "Kaygı bozuklukları tez çalışması"
-      },
-      {
-        "year": "2018",
-        "title": "EMDR Avrupa Akredite Uygulayıcı",
-        "detail": "EMDR Europe onaylı sertifika"
+        "year": "2020",
+        "title": "test",
+        "detail": "Kaygı bozuklukları tez çalışmasıtest"
       }
     ]
   },
   "approach": {
-    "title": "Terapi Yaklaşımım",
-    "intro": "Terapi, yaşamın karmaşası içinde durup kendimize bakabildiğimiz, sessiz ve yargısız bir tanıklık alanıdır.",
+    "title": "Çalışma Prensiplerimtest",
+    "intro": "Her danışan benzersizdir ve terapi süreci buna göre şekillenir.test",
     "principles": [
       {
-        "title": "Güvenli Alan",
-        "desc": "Tam gizliliğe ve şefkate dayalı bir terapötik alan."
+        "desc": "Tam gizliliğe ve şefkate dayalı bir terapötik alan.test",
+        "title": "Güvenli Alantest"
       },
       {
-        "title": "Kişiye Özel Süreç",
-        "desc": "İhtiyaçlarınıza, hızınıza ve hedeflerinize özel planlama."
+        "desc": "İhtiyaçlarınıza, hızınıza ve hedeflerinize özel planlama.test",
+        "title": "Kişiye Özel Süreçtest"
       },
       {
-        "title": "Aktif İş Birliği",
-        "desc": "İki uzmanın omuz omuza çalıştığı bir ortaklık."
+        "desc": "İki uzmanın omuz omuza çalıştığı bir ortaklık.test",
+        "title": "Aktif İş Birliğitest"
       }
     ]
   },
   "articles": [
     {
+      "date": "28 Mayıs 2026",
       "title": "Kaygı Bozukluklarında Bilişsel Yeniden Yapılandırma",
       "category": "Klinik",
-      "readTime": "8 dk",
-      "date": "28 Mayıs 2026"
+      "readTime": "8 dk"
     },
     {
+      "date": "24 Temmuz 2026",
       "title": "Çocuklarda Duygusal Güvenlik Alanı Oluşturmak",
       "category": "Çocuk-Ergen",
-      "readTime": "6 dk",
-      "date": "24 Temmuz 2026"
+      "readTime": "6 dk"
     },
     {
+      "date": "10 Nisan 2026",
       "title": "EMDR ile Travma Sonrası Büyüme",
       "category": "Travma",
-      "readTime": "10 dk",
-      "date": "10 Nisan 2026"
+      "readTime": "10 dk"
     }
   ],
   "faq": [
     {
-      "q": "İlk terapi seansında ne yapılıyor?",
-      "a": "İlk seans, birbirimizi tanıdığımız, başvuru nedenlerinizi ve hedeflerinizi değerlendirdiğimiz bir ön değerlendirme seansıdır."
+      "a": "İlk seans, birbirimizi tanıdığımız, başvuru nedenlerinizi ve hedeflerinizi değerlendirdiğimiz bir ön değerlendirme seansıdır.test",
+      "q": "İlk terapi seansında ne yapılıyor?test"
     },
     {
-      "q": "Terapi seansları ne sıklıkla yapılmalı?",
-      "a": "Başlangıçta haftada bir görüşme önerilir. Süreç ilerledikçe sıklık azaltılabilir."
+      "a": "Başlangıçta haftada bir görüşme önerilir. Süreç ilerledikçe sıklık azaltılabilir.test",
+      "q": "Terapi seansları ne sıklıkla yapılmalı?test"
     },
     {
-      "q": "Seansların gizliliği nasıl korunur?",
-      "a": "Tüm seanslarımız yasal ve etik sınırlar çerçevesinde %100 gizlilik ilkesine dayanır."
+      "a": "Tüm seanslarımız yasal ve etik sınırlar çerçevesinde %100 gizlilik ilkesine dayanır.test",
+      "q": "Seansların gizliliği nasıl korunur?test"
+    },
+    {
+      "a": "test",
+      "q": "test"
+    },
+    {
+      "a": "test",
+      "q": "test"
+    },
+    {
+      "a": "test",
+      "q": "test"
     }
   ],
   "contact": {
     "title": "Randevu ve İletişim",
-    "intro": "İçsel yolculuğunuza adım atmak veya ön bilgi almak için bana yazabilirsiniz.",
-    "formName": "Adınız",
+    "intro": "İlk görüşme için randevu almak veya sorularınızı iletmek için formu kullanabilirsiniz.",
+    "formName": "Ad Soyad",
     "formEmail": "E-posta",
     "formMessage": "Mesajınız",
     "formSubmit": "Gönder"
+  },
+  "seo": {
+    "jobTitle": "sgmsgds",
+    "description": "test, kadıköy, istanbul merkezli sgmsgds.",
+    "specialties": [],
+    "credentials": [
+      "test (2010)",
+      "test (2020)"
+    ],
+    "location": "kadıköy, istanbul",
+    "socialLinks": [],
+    "openingHours": "Mo-Fr 09:00-18:00"
   }
 }
