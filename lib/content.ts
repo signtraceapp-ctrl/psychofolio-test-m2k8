@@ -109,6 +109,18 @@ const siteContentInputSchema = z.object({
 
 // ── Resolved type (what pages consume — everything required) ──
 
+export interface SeoData {
+  jobTitle: string;
+  description: string;
+  specialties: string[];
+  credentials: string[];
+  location: string;
+  socialLinks: string[];
+  alumniOf?: string[];
+  openingHours?: string;
+  siteUrl?: string;
+}
+
 export interface SiteContent {
   site: {
     name: string;
@@ -278,10 +290,7 @@ function birlestir<T extends Record<string, unknown>>(
 
 // ── Content loader ──
 
-let cached: SiteContent | null = null;
-
 export function getContent(): SiteContent {
-  if (cached) return cached;
 
   // Primary: site.json (ships with the template)
   const defaultsPath = join(process.cwd(), "content", "site.json");
